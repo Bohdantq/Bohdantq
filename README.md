@@ -20,6 +20,6 @@ My name is Bohdan Talko, a web enthusiast passionate about using technology to t
   <img align="left" alt="" src="https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/Bohdan Talko/">
+<a href="https://www.linkedin.com/in/bohdantalko/">
   <img align="left" alt="" src="https://img.shields.io/badge/-linkedin-grey?style=for-the-badge&logo=linkedin" />
 </a>
